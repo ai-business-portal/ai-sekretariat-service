@@ -1,0 +1,6 @@
+cd ~/Documents/ai-sekretariat-service/frontend
+npm run build
+!frontend/build
+
+
+
